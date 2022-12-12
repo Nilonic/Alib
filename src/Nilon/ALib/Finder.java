@@ -17,7 +17,7 @@ public class Finder {
      * @param string the string to convert to an int
      * @return integer version of your input OR null if an error occurred
      */
-    public static Object toIntOverride(String string){
+    public static Object toIntEX(String string){
         try {
             return Integer.parseInt(string);
         }catch (Exception e){
