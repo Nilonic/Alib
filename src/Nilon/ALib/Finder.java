@@ -1,5 +1,9 @@
 package Nilon.ALib;
 
+/**
+ * the finder class helps with basic finding needs [and more!]
+ *
+ */
 public class Finder {
     /**
      *
